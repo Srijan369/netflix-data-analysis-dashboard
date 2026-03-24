@@ -26,8 +26,8 @@ This project analyzes Netflix data to find trends in content, ratings, and distr
 * Drama and International genres dominate
 
 ## 📷 Dashboard Preview
+<img width="1292" height="735" alt="image" src="https://github.com/user-attachments/assets/2e95696c-2538-47e4-8f0b-8457dba61c1a" />
 
-(Add your Power BI dashboard screenshot here)
 
 ## 📁 Files Included
 
